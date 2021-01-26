@@ -13,7 +13,7 @@ namespace MyDictionary
             ogrenciNoAd.Add(4, "Oz");
 
             ogrenciNoAd.Print(ogrenciNoAd);
-
+             
         }
     }
 

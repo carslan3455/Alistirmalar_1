@@ -11,6 +11,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces_1", "Interfaces\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces_2", "Interfaces_2\Interfaces_2.csproj", "{40174B7A-2DEF-46F8-A3EB-F5C62117AF31}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{8F08E049-F968-4B6F-9E7E-9AC76D23D602}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface_2", "Interface_2\Interface_2.csproj", "{3B4818C8-2694-464D-A2CE-27C58ED081A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{40174B7A-2DEF-46F8-A3EB-F5C62117AF31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40174B7A-2DEF-46F8-A3EB-F5C62117AF31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40174B7A-2DEF-46F8-A3EB-F5C62117AF31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F08E049-F968-4B6F-9E7E-9AC76D23D602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F08E049-F968-4B6F-9E7E-9AC76D23D602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F08E049-F968-4B6F-9E7E-9AC76D23D602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F08E049-F968-4B6F-9E7E-9AC76D23D602}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B4818C8-2694-464D-A2CE-27C58ED081A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B4818C8-2694-464D-A2CE-27C58ED081A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B4818C8-2694-464D-A2CE-27C58ED081A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B4818C8-2694-464D-A2CE-27C58ED081A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
